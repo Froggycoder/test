@@ -1,0 +1,6 @@
+hi = 5
+bye = hi * hello
+hello = 5
+#the duck says moo
+print bye
+print #the duck says moo
